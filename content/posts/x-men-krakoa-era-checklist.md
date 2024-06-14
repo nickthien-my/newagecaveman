@@ -29,7 +29,7 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
 
-![image](../../static/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
+<img src="./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" height=400>
 
 [Amazon][HoX/PoX TPB]
 
@@ -84,5 +84,6 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 
 
-[HoX/PoX]:(https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x) 'House of X/Powers of X Series Spotlight'
-[HoX/PoX TPB]: (https://www.amazon.com/House-X-Powers-Jonathan-Hickman-ebook/dp/B07Z8HGWC3) 'House of X/Powers of X'
+[HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
+[HoX/PoX TPB]: https://www.amazon.com/House-X-Powers-Jonathan-Hickman-ebook/dp/B07Z8HGWC3 'House of X/Powers of X'
+[HoX/PoX TPB Cover]: ./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp
