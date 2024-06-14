@@ -2,8 +2,8 @@
 title = 'X-Men Krakoa Era Checklist'
 date = 2024-06-14T00:49:50+08:00
 author = 'Nicholas Thien'
-tags: ["X-Men", "Marvel", "Krakoa Era"]
-categories: ["Checklist"]
+tags = ["X-Men", "Marvel", "Krakoa Era"]
+categories = ["Checklist"]
 +++
 
 # Table of Contents
