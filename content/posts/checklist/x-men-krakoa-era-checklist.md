@@ -24,7 +24,7 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 <table>
     <tr>
         <td>
-            <img src="http://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp">
+            <img src="http://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp" width="200px">
         </td>
     </tr>
     <tr>
