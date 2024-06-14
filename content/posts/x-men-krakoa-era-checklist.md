@@ -23,7 +23,7 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ### TPB
 
-![images](images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp)
+![images][Hox/Pox Cover]
 
 
 [Amazon][HoX/PoX TPB]
