@@ -21,23 +21,14 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ### TPB
 
-![images](https://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
+![images][Hox/Pox Cover]
 
 House of X/Powers of X (2019)
 
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
 
-
-
 [Amazon][HoX/PoX TPB]
-
-<p>
-
-
-
-
-<img src="https://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" width="40%">
 
 ## Dawn of X
 
@@ -86,4 +77,5 @@ Dawn of X Vol. 14
 
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
+[Hox/Pox Cover]: /static/images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
 [HoX/PoX TPB]: https://www.amazon.com/House-X-Powers-Jonathan-Hickman-ebook/dp/B07Z8HGWC3 'House of X/Powers of X'
