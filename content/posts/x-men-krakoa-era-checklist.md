@@ -15,7 +15,12 @@ categories = ["Checklist"]
 
 # Checklist
 
+## House of X/Powers of X
+
 - [ ] House of X/Powers of X
+
+## Dawn of X
+
 - [ ] Dawn of X Vol. 1
 - [ ] Dawn of X Vol. 2
 - [ ] Dawn of X Vol. 3
@@ -33,7 +38,41 @@ categories = ["Checklist"]
 - [ ] Dawn of X Vol. 15
 - [ ] Dawn of X Vol. 16
 
+## X of Swords
 
+- [ ] X of Swords
+
+## Reign of X
+
+- [ ] Reign of X Vol. 1
+- [ ] Reign of X Vol. 2
+- [ ] Reign of X Vol. 3
+- [ ] Reign of X Vol. 4
+- [ ] Reign of X Vol. 5
+- [ ] Reign of X Vol. 6
+- [ ] Reign of X Vol. 7
+- [ ] Reign of X Vol. 8
+- [ ] Reign of X Vol. 9
+- [ ] Reign of X Vol. 10
+- [ ] Reign of X Vol. 11
+- [ ] Reign of X Vol. 12
+- [ ] Reign of X Vol. 13
+- [ ] Reign of X Vol. 14
+
+## Trial of X
+
+- [ ] Trial of X Vol. 1
+- [ ] Trial of X Vol. 2
+- [ ] Trial of X Vol. 3
+- [ ] Trial of X Vol. 4
+- [ ] Trial of X Vol. 5
+- [ ] Trial of X Vol. 6
+- [ ] Trial of X Vol. 7
+- [ ] Trial of X Vol. 8
+- [ ] Trial of X Vol. 9
+- [ ] Trial of X Vol. 10
+- [ ] Trial of X Vol. 11
+- [ ] Trial of X Vol. 12
 
 ## House of X/Powers of X
 
@@ -116,6 +155,11 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 
 ![Dawn of X Vol. 15 Cover][DoX15 Cover]
 ![Dawn of X Vol. 16 Cover][DoX16 Cover]
+
+
+| ![House of X/Powers of X Cover][Hox/Pox Cover] | ![Dawn of X Vol. 1 Cover][DoX1 Cover] | ![Dawn of X Vol. 2 Cover][DoX2 Cover] |
+| --- | --- | --- |
+| House of X/Powers of X | Dawn of X Vol. 1 | Dawn of X Vol. 2 |
 
 
 
