@@ -75,5 +75,5 @@ Dawn of X Vol. 14
 
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
-[Hox/Pox Cover]: x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
+[Hox/Pox Cover]: ../newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
 [HoX/PoX TPB]: https://www.amazon.com/House-X-Powers-Jonathan-Hickman-ebook/dp/B07Z8HGWC3 'House of X/Powers of X'
