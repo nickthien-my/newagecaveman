@@ -21,6 +21,7 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ### TPB
 
+![images](./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
 <img src="./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" height=400>
 
 House of X/Powers of X (2019)
