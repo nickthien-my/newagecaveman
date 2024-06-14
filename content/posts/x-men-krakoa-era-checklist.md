@@ -47,6 +47,8 @@ Table of Contents
 | Dawn of X | Vol. 1 | Vol. 2 | Vol. 3 | Vol. 4 | 
 | ---: | :---: | :---: | :---: | :---: | 
 | X-Men (2019) | #1 | #2 |
+| Marauders (2019) | #1 |
+| Excalibur (2019) | #1 |
 
 | Dawn of X | Vol. 5 | Vol. 6 | Vol. 7 | Vol. 8 | 
 | ---: | :---: | :---: | :---: | :---: | 
@@ -72,6 +74,12 @@ Table of Contents
 | X-Force (2019) | #11–12 |
 | Giant-Size X-Men | Storm #1 |
 
+<details>
+<Summary>Dawn of X Vol. 14</Summary>
+* X-Men (2019) #12
+* Excalibur (2019) #11-12
+
+</details>
 
 
 
