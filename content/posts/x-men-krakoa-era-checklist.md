@@ -23,9 +23,9 @@ Issues appearing in this series based on the [House of X/Powers of X Marvel Seri
 
 ### TPB
 
-![House of X/Powers of X Cover][Hox/Pox Cover]
+**House Of X/Powers Of X**
 
-House Of X/Powers Of X
+![House of X/Powers of X Cover][Hox/Pox Cover]
 
 ## Dawn of X
 
@@ -50,9 +50,7 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 
 ### TPB
 
-
-
-<details><summary>Dawn of X Vol. 1</summary>
+**Dawn of X Vol. 1 (2020)**
 
 ![Dawn of X Vol. 1 Cover][DoX1 Cover]
 
@@ -63,17 +61,16 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 - Fallen Angels (2019) #1
 - New Mutants (2019) #1
 
-</details>
-
+**Dawn of X Vol. 2 (2020)**
 
 ![Dawn of X Vol. 2 Cover][DoX2 Cover]
 
-Dawn of X Vol. 14
-
-- X-Men (2019) #12
-- Excalibur (2019) #11-12
-- X-Force (2019) #11-12
-- Giant-Size X-Men: Storm (2020) #1
+- X-Men (2019) #2
+- X-Force (2019) #2
+- Marauders (2019) #2
+- Excalibur (2019) #2
+- Fallen Angels (2019) #2
+- New Mutants (2019) #2
 
 ![Dawn of X Vol. 3 Cover][DoX3 Cover]
 ![Dawn of X Vol. 4 Cover][DoX4 Cover]
@@ -86,9 +83,10 @@ Dawn of X Vol. 14
 ![Dawn of X Vol. 11 Cover][DoX11 Cover]
 ![Dawn of X Vol. 12 Cover][DoX12 Cover]
 ![Dawn of X Vol. 13 Cover][DoX13 Cover]
-![Dawn of X Vol. 14 Cover][DoX14 Cover]
 
-Dawn of X Vol. 14
+**Dawn of X Vol. 14**
+
+![Dawn of X Vol. 14 Cover][DoX14 Cover]
 
 - X-Men (2019) #12
 - Excalibur (2019) #11-12
