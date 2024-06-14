@@ -4,8 +4,6 @@ date = 2024-06-14T00:49:50+08:00
 author = 'Nicholas Thien'
 +++
 
-# X-Men Krakoa Era Checklist
-
 Table of Contents
 - [House of X/Powers of X](#house-of-x--powers-of-x)
 - [Dawn of X](#dawn-of-x)
@@ -23,13 +21,14 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ### TPB
 
-<details>
-<Summary>House of X/Powers of X (2019)</Summary>
+<img src="./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" height=400>
+
+House of X/Powers of X (2019)
 
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
 
-<img src="./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" height=400>
+
 
 [Amazon][HoX/PoX TPB]
 
@@ -57,15 +56,13 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ## TPB
 
-<details>
-<Summary>Dawn of X Vol. 14</Summary>
+
+Dawn of X Vol. 14
 
 * X-Men (2019) #12
 * Excalibur (2019) #11-12
 * X-Force (2019) #11-12
 * Giant-Size X-Men: Storm (2020) #1
-
-</details>
 
 
 
@@ -86,4 +83,3 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
 [HoX/PoX TPB]: https://www.amazon.com/House-X-Powers-Jonathan-Hickman-ebook/dp/B07Z8HGWC3 'House of X/Powers of X'
-[HoX/PoX TPB Cover]: ./images/x-men-krakoa-era-houseofx-powersofx-tpb.webp
