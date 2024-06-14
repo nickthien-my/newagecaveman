@@ -33,6 +33,7 @@ House of X/Powers of X (2019)
 [Amazon][HoX/PoX TPB]
 
 
+![images](/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
 
 ## Dawn of X
 
