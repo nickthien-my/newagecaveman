@@ -21,11 +21,24 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ### TPB
 
-| ![images][Hox/Pox Cover] |
-| House of X/Powers of X (2019) |
-| --- |
-| House of X (2019) #1-6 |
-| Powers of X (2019) #1-6 |
+<table>
+    <tr>
+        <td>
+            <img src="http://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            House of X/Powers of X (2019)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            House of X (2019) #1-6
+            Powers of X (2019) #1-6
+        </td>
+    </tr>
+</table>
 
 [Amazon][HoX/PoX TPB]
 
