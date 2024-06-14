@@ -160,10 +160,14 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 | ![House of X/Powers of X Cover][Hox/Pox Cover] | ![Dawn of X Vol. 1 Cover][DoX1 Cover] | ![Dawn of X Vol. 2 Cover][DoX2 Cover] |
 | --- | --- | --- |
 | House of X/Powers of X | Dawn of X Vol. 1 | Dawn of X Vol. 2 |
-| X-Men (2019) #1, X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1 | X-Men (2019) #1\ X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1 | X-Men (2019) #1\ X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1
+|  | X-Men (2019) #1\ X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1 | X-Men (2019) #1\ X-Force (2019) #1\ Marauders (2019) #1\ Excalibur (2019) #1\ Fallen Angels (2019) #1\ New Mutants (2019) #1
 
 
-
+| Title | Cover | Issues Collected |
+|  ---  | ----- | ---------------- |
+| House of X/Powers of X | ![House of X/Powers of X Cover][Hox/Pox Cover] | House of X #1–6<br>Powers of X #1–6
+| Dawn of X Vol. 1 | ![Dawn of X Vol. 1 Cover][DoX1 Cover] | X-Men (2019) #1<br>X-Force (2019) #1<br>Marauders (2019) #1<br>Excalibur (2019) #1<br>Fallen Angels (2019) #1<br>New Mutants (2019) #1 |
+| Dawn of X Vol. 2 | ![Dawn of X Vol. 2 Cover][DoX2 Cover] | X-Men (2019) #2<br>X-Force (2019) #2<br>Marauders (2019) #2<br>Excalibur (2019) #2<br>Fallen Angels (2019) #2<br>New Mutants (2019) #2 |
 
 
 
