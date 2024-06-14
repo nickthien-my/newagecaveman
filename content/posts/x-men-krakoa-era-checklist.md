@@ -16,19 +16,20 @@ categories = ["Checklist"]
 
 ## House of X/Powers of X
 
-Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX].
+Issues appearing in this series based on the [House of X/Powers of X Marvel Series Spotlight][HoX/PoX].
 
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
 
 ### TPB
 
-![images][Hox/Pox Cover]
+![House of X/Powers of X Cover][Hox/Pox Cover]
 
-
-[Amazon][HoX/PoX TPB]
+[House Of X/Powers Of X][HoX/PoX TPB]
 
 ## Dawn of X
+
+Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight][DoX].
 
 - X-Men (2019) #1–12
 - Marauders (2019) #1–12
@@ -50,13 +51,13 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 ## TPB
 
 
+![Dawn of X Vol. 1 Cover][DoX1 Cover]
 Dawn of X Vol. 14
 
 * X-Men (2019) #12
 * Excalibur (2019) #11-12
 * X-Force (2019) #11-12
 * Giant-Size X-Men: Storm (2020) #1
-{{< youtube 05mOdHmQVc >}}
 
 
 ## X of Swords
@@ -75,5 +76,7 @@ Dawn of X Vol. 14
 
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
-[Hox/Pox Cover]: /newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
-[HoX/PoX TPB]: https://www.amazon.com/House-X-Powers-Jonathan-Hickman-ebook/dp/B07Z8HGWC3 'House of X/Powers of X'
+[Hox/Pox Cover]: /newagecaveman/images/houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
+[HoX/PoX TPB]: https://www.amazon.com/gp/product/B07Z8HGWC3 'House of X/Powers of X'
+[DoX]: https://www.marvel.com/comics/guides/1664/dawn_of_x 'Dawn of X'
+[DoX1 Cover]: /newagecaveman/images/dawnofx_vol1_tpb_cover.webp 'Dawn of X Vol. 1 Cover'
