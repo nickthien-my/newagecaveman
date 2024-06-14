@@ -1,4 +1,4 @@
-baseURL = 'https://nickthien-my.github.io/newagecaveman'
+baseURL = ''
 languageCode = 'en-us'
 title = 'New Age Caveman'
 theme = 'ananke'
