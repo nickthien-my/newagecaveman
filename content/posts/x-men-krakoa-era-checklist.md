@@ -32,8 +32,12 @@ House of X/Powers of X (2019)
 
 [Amazon][HoX/PoX TPB]
 
+<p>
 
-![images](../../static/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
+
+
+
+<img src="https://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" width="40%">
 
 ## Dawn of X
 
