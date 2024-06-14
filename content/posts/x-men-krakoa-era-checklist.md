@@ -21,12 +21,11 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 
 ### TPB
 
-![images][Hox/Pox Cover]
-
-House of X/Powers of X (2019)
-
-- House of X (2019) #1-6
-- Powers of X (2019) #1-6
+| ![images][Hox/Pox Cover] |
+| House of X/Powers of X (2019) |
+| --- |
+| House of X (2019) #1-6 |
+| Powers of X (2019) #1-6 |
 
 [Amazon][HoX/PoX TPB]
 
