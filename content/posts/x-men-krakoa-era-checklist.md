@@ -2,9 +2,11 @@
 title = 'X-Men Krakoa Era Checklist'
 date = 2024-06-14T00:49:50+08:00
 author = 'Nicholas Thien'
+tags: ["X-Men", "Marvel", "Krakoa Era"]
+categories: ["Checklist"]
 +++
 
-Table of Contents
+# Table of Contents
 - [House of X/Powers of X](#house-of-x--powers-of-x)
 - [Dawn of X](#dawn-of-x)
 - [X of Swords](#x-of-swords)
