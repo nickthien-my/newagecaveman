@@ -25,7 +25,7 @@ Issues appearing in this series based on the [House of X/Powers of X Marvel Seri
 
 ![House of X/Powers of X Cover][Hox/Pox Cover]
 
-[House Of X/Powers Of X][HoX/PoX TPB]
+House Of X/Powers Of X
 
 ## Dawn of X
 
@@ -48,16 +48,67 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 - Hellions (2020) #1–4
 - X-Factor (2020) #1-3
 
-## TPB
+### TPB
 
+
+
+<details><summary>Dawn of X Vol. 1</summary>
 
 ![Dawn of X Vol. 1 Cover][DoX1 Cover]
+
+- X-Men (2019) #1
+- X-Force (2019) #1
+- Marauders (2019) #1
+- Excalibur (2019) #1
+- Fallen Angels (2019) #1
+- New Mutants (2019) #1
+
+</details>
+
+
+![Dawn of X Vol. 2 Cover][DoX2 Cover]
+
 Dawn of X Vol. 14
 
-* X-Men (2019) #12
-* Excalibur (2019) #11-12
-* X-Force (2019) #11-12
-* Giant-Size X-Men: Storm (2020) #1
+- X-Men (2019) #12
+- Excalibur (2019) #11-12
+- X-Force (2019) #11-12
+- Giant-Size X-Men: Storm (2020) #1
+
+![Dawn of X Vol. 3 Cover][DoX3 Cover]
+![Dawn of X Vol. 4 Cover][DoX4 Cover]
+![Dawn of X Vol. 5 Cover][DoX5 Cover]
+![Dawn of X Vol. 6 Cover][DoX6 Cover]
+![Dawn of X Vol. 7 Cover][DoX7 Cover]
+![Dawn of X Vol. 8 Cover][DoX8 Cover]
+![Dawn of X Vol. 9 Cover][DoX9 Cover]
+![Dawn of X Vol. 10 Cover][DoX10 Cover]
+![Dawn of X Vol. 11 Cover][DoX11 Cover]
+![Dawn of X Vol. 12 Cover][DoX12 Cover]
+![Dawn of X Vol. 13 Cover][DoX13 Cover]
+![Dawn of X Vol. 14 Cover][DoX14 Cover]
+
+Dawn of X Vol. 14
+
+- X-Men (2019) #12
+- Excalibur (2019) #11-12
+- X-Force (2019) #11-12
+- Giant-Size X-Men: Storm (2020) #1
+
+![Dawn of X Vol. 15 Cover][DoX15 Cover]
+![Dawn of X Vol. 16 Cover][DoX16 Cover]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## X of Swords
@@ -77,6 +128,6 @@ Dawn of X Vol. 14
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
 [Hox/Pox Cover]: /newagecaveman/images/houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
-[HoX/PoX TPB]: https://www.amazon.com/gp/product/B07Z8HGWC3 'House of X/Powers of X'
 [DoX]: https://www.marvel.com/comics/guides/1664/dawn_of_x 'Dawn of X'
 [DoX1 Cover]: /newagecaveman/images/dawnofx_vol1_tpb_cover.webp 'Dawn of X Vol. 1 Cover'
+[DoX2 Cover]: /newagecaveman/images/dawnofx_vol2_tpb_cover.webp 'Dawn of X Vol. 2 Cover'
