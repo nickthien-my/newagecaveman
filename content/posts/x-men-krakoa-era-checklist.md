@@ -22,10 +22,10 @@ Issues appearing in this series based on Marvel Series Spotlight [here][HoX/PoX]
 ### TPB
 
 <p class="md__image">
-<img src="https://raw.githubusercontent.com/nickthien-my/newagecaveman/main/static/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" height=400>
+<img src="https://nickthien-my.github.io/newagecaveman/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp" height=400>
 <p>
 
-![images](/static/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
+![images](/images/x-men-krakoa-era-houseofx-powersofx-tpb.webp)
 
 House of X/Powers of X (2019)
 
