@@ -85,6 +85,8 @@ categories = ["Checklist"]
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
 
+---
+
 #### Dawn of X Vol. 1 TPB
 
 <p>
@@ -99,6 +101,8 @@ categories = ["Checklist"]
 - Excalibur (2019) #1
 - Fallen Angels (2019) #1
 - New Mutants (2019) #1
+
+---
 
 #### Dawn of X Vol. 2 TPB
 
@@ -115,7 +119,7 @@ categories = ["Checklist"]
 - Fallen Angels (2019) #2
 - New Mutants (2019) #2
 
-
+---
 
 
 
