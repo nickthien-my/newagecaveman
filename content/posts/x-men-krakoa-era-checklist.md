@@ -210,7 +210,6 @@ categories = ["Checklist"]
 - Excalibur (2019) #7–8
 - X-Men (2019) #7
 
-[^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.
 ---
 
 ## Dawn of X Vol. 8
@@ -268,7 +267,7 @@ categories = ["Checklist"]
 
 **Issues Collected**
 
-- New Mutants (2019) #10-11
+- New Mutants (2019) #10–11
 - Wolverine (2020) #1
 - Excalibur (2019) #10
 - Hellions (2020) #2
@@ -278,92 +277,83 @@ categories = ["Checklist"]
 ## Dawn of X Vol. 12
 
 <p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+    <img src="/newagecaveman/images/dawnofx_vol12_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 12 TPB Cover" title="Dawn of X Vol. 12 TPB Cover">
 </p>
 
 **Issues Collected**
 
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
+- Hellions (2020) #4
+- Maruaders (2019) #10
+- X-Factor (2020) #1
+- Giant-Size X-Men: Magneto (2019) #1
+- Cable (2020) #2
+
 
 ---
 
 ## Dawn of X Vol. 13
 
 <p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+    <img src="/newagecaveman/images/dawnofx_vol13_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 13 TPB Cover" title="Dawn of X Vol. 13 TPB Cover">
 </p>
 
 **Issues Collected**
 
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
+- Cable (2020) #3–4
+- X-Men (2019) #10
+- Empyre: X-Men (2020) #1–2
 
 ---
 
 ## Dawn of X Vol. 14
 
 <p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+    <img src="/newagecaveman/images/dawnofx_vol14_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 14 TPB Cover" title="Dawn of X Vol. 14 TPB Cover">
 </p>
 
 **Issues Collected**
 
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
+- Empyre: X-Men (2020) #3–4
+- X-Men (2019) #11
+- Wolverine (2020) #4
+- X-Factor (2020) #2
 
 ---
 
 ## Dawn of X Vol. 15
 
 <p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+    <img src="/newagecaveman/images/dawnofx_vol15_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 15 TPB Cover" title="Dawn of X Vol. 15 TPB Cover">
 </p>
 
 **Issues Collected**
 
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
+- X-Factor (2020) #3
+- Wolverine (2020) #5
+- New Mutants (2019) #12
+- Marauders (2019) #11–12
+- Giant-Size X-Men: Fantomex (2020) #1
 
 ---
 
 ## Dawn of X Vol. 16
 
 <p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+<img src="/newagecaveman/images/dawnofx_vol16_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 16 TPB Cover" title="Dawn of X Vol. 16 TPB Cover">
 </p>
 
 **Issues Collected**
 
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
+- Giant-Size X-Men: Storm (2020) #1
+- X-Force (2019) #11–12
+- Excalibur (2019) #11–12
 
 ---
 
 ## 4X
 
 <p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+    <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
 </p>
 
 **Issues Collected**
@@ -457,7 +447,7 @@ categories = ["Checklist"]
 ## Fall of X
 
 
-
+[^1]: Wolverine #1 is a double-sized issue, the second half is collected in Dawn of X Vol. 11.
 
 [HoX/PoX]: https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x  'House of X/Powers of X Series Spotlight'
 [Hox/Pox Cover]: /newagecaveman/images/houseofx-powersofx-tpb-cover.webp 'House of X/Powers of X Cover'
