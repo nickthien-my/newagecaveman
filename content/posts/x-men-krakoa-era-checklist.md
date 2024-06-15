@@ -17,12 +17,12 @@ categories = ["Checklist"]
 
 **House of X/Powers of X**
 
-- [ ] [House of X/Powers of X TPB](#house-of-xpowers-of-x-tpb)
+- [ ] [House of X/Powers of X](#house-of-xpowers-of-x-1)
 
 **Dawn of X**
 
-- [ ] [Dawn of X Vol. 1](#dawn-of-x-vol-1-tpb)
-- [ ] [Dawn of X Vol. 2](#dawn-of-x-vol-2-tpb)
+- [ ] [Dawn of X Vol. 1](#dawn-of-x-vol-1)
+- [ ] [Dawn of X Vol. 2](#dawn-of-x-vol-2)
 - [ ] Dawn of X Vol. 3
 - [ ] Dawn of X Vol. 4
 - [ ] Dawn of X Vol. 5
