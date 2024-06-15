@@ -13,11 +13,11 @@ categories = ["Checklist"]
 - [Reign of X](#reign-of-x)
 - [Trials of X](#trials-of-x)
 
-# Checklist
+# TPB Checklist
 
 ## House of X/Powers of X
 
-- [ ] House of X/Powers of X
+- [ ] [House of X/Powers of X TPB](#house-of-xpowers-of-x-tpb)
 
 ## Dawn of X
 
@@ -74,45 +74,24 @@ categories = ["Checklist"]
 - [ ] Trial of X Vol. 11
 - [ ] Trial of X Vol. 12
 
-## House of X/Powers of X
+#### House of X/Powers of X TPB
 
-Issues appearing in this series based on the [House of X/Powers of X Marvel Series Spotlight][HoX/PoX].
+<p>
+<img src="/newagecaveman/images/houseofx-powersofx_tpb_cover.webp" width="400px" alt="House of X/Powers of X TPB Cover" title="House of X/Powers of X TPB Cover">
+</p>
+
+**Issues Collected**
 
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
 
-### TPB
+#### Dawn of X Vol. 1 TPB
 
-**House Of X/Powers Of X**
+<p>
+<img src="/newagecaveman/images/dawnofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
+</p>
 
-![House of X/Powers of X Cover][Hox/Pox Cover]
-
-## Dawn of X
-
-Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight][DoX].
-
-- X-Men (2019) #1–12
-- Marauders (2019) #1–12
-- Excalibur (2019) #1–12
-- New Mutants (2019) #1–12
-- X-Force (2019) #1–12
-- Fallen Angels (2019) #1–6
-- X-Men/Fantastic Four (2020) #1–4
-- Wolverine (2020) #1–5
-- Giant-Size X-Men: Jean Grey and Emma Frost (2020) #1
-- Giant-Size X-Men: Nightcrawler (2020) #1
-- Giant-Size X-Men: Magneto (2020) #1
-- Giant-Size X-Men: Fantomex (2020) #1
-- Giant-Size X-Men: Storm (2020) #1
-- Cable (2020) #1–4
-- Hellions (2020) #1–4
-- X-Factor (2020) #1-3
-
-### TPB
-
-**Dawn of X Vol. 1 (2020)**
-
-![Dawn of X Vol. 1 Cover][DoX1 Cover]
+**Issues Collected**
 
 - X-Men (2019) #1
 - X-Force (2019) #1
@@ -120,6 +99,30 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 - Excalibur (2019) #1
 - Fallen Angels (2019) #1
 - New Mutants (2019) #1
+
+#### Dawn of X Vol. 2 TPB
+
+<p>
+<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+</p>
+
+**Issues Collected**
+
+- X-Men (2019) #2
+- X-Force (2019) #2
+- Marauders (2019) #2
+- Excalibur (2019) #2
+- Fallen Angels (2019) #2
+- New Mutants (2019) #2
+
+
+
+
+
+
+
+
+
 
 **Dawn of X Vol. 2 (2020)**
 
@@ -174,9 +177,7 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 
 
 
-<p>
-<img src="/newagecaveman/images/dawnofx_vol01_tpb_cover.webp" width="400px">
-</p>
+
 
 
 
