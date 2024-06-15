@@ -23,20 +23,20 @@ categories = ["Checklist"]
 
 - [ ] [Dawn of X Vol. 1](#dawn-of-x-vol-1)
 - [ ] [Dawn of X Vol. 2](#dawn-of-x-vol-2)
-- [ ] Dawn of X Vol. 3
-- [ ] Dawn of X Vol. 4
-- [ ] Dawn of X Vol. 5
-- [ ] Dawn of X Vol. 6
-- [ ] Dawn of X Vol. 7
-- [ ] Dawn of X Vol. 8
-- [ ] Dawn of X Vol. 9
-- [ ] Dawn of X Vol. 10
-- [ ] Dawn of X Vol. 11
-- [ ] Dawn of X Vol. 12
-- [ ] Dawn of X Vol. 13
-- [ ] Dawn of X Vol. 14
-- [ ] Dawn of X Vol. 15
-- [ ] Dawn of X Vol. 16
+- [ ] [Dawn of X Vol. 3](#dawn-of-x-vol-3)
+- [ ] [Dawn of X Vol. 4](#dawn-of-x-vol-4)
+- [ ] [Dawn of X Vol. 5](#dawn-of-x-vol-5)
+- [ ] [Dawn of X Vol. 6](#dawn-of-x-vol-6)
+- [ ] [Dawn of X Vol. 7](#dawn-of-x-vol-7)
+- [ ] [Dawn of X Vol. 8](#dawn-of-x-vol-8)
+- [ ] [Dawn of X Vol. 9](#dawn-of-x-vol-9)
+- [ ] [Dawn of X Vol. 10](#dawn-of-x-vol-10)
+- [ ] [Dawn of X Vol. 11](#dawn-of-x-vol-11)
+- [ ] [Dawn of X Vol. 12](#dawn-of-x-vol-12)
+- [ ] [Dawn of X Vol. 13](#dawn-of-x-vol-13)
+- [ ] [Dawn of X Vol. 14](#dawn-of-x-vol-14)
+- [ ] [Dawn of X Vol. 15](#dawn-of-x-vol-15)
+- [ ] [Dawn of X Vol. 16](#dawn-of-x-vol-16)
 
 **X of Swords**
 
@@ -191,7 +191,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 7
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -208,7 +208,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 8
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -225,7 +225,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 9
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -242,7 +242,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 10
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -259,7 +259,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 11
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -276,7 +276,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 12
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -293,7 +293,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 13
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -310,7 +310,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 14
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -327,7 +327,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 15
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -344,7 +344,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### Dawn of X Vol. 16
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -361,7 +361,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
+#### 4X
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -378,22 +378,6 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2 TPB
-
-<p>
-<img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
-</p>
-
-**Issues Collected**
-
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
-
----
 
 
 
