@@ -350,20 +350,15 @@ categories = ["Checklist"]
 
 ---
 
-## 4X
+## X-MEN/FANTASTIC FOUR: 4X
 
 <p>
-    <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
+    <img src="/newagecaveman/images/x-men-fantasticfour-4x_cover.webp" width="400px" alt="X-Men/Fantastic Four: 4x Cover" title="X-Men/Fantastic Four: 4x TPB Cover">
 </p>
 
 **Issues Collected**
 
-- X-Men (2019) #2
-- X-Force (2019) #2
-- Marauders (2019) #2
-- Excalibur (2019) #2
-- Fallen Angels (2019) #2
-- New Mutants (2019) #2
+- X-Men/Fantastic Four: 4x (2020) #1–4
 
 ---
 
