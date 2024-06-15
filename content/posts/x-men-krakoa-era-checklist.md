@@ -75,6 +75,8 @@ categories = ["Checklist"]
 - [ ] Trial of X Vol. 11
 - [ ] Trial of X Vol. 12
 
+---
+
 # House of X/Powers of X
 
 #### House of X/Powers of X
@@ -87,6 +89,8 @@ categories = ["Checklist"]
 
 - House of X (2019) #1-6
 - Powers of X (2019) #1-6
+
+---
 
 # Dawn of X
 
