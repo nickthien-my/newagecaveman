@@ -21,8 +21,8 @@ categories = ["Checklist"]
 
 ## Dawn of X
 
-- [ ] Dawn of X Vol. 1
-- [ ] Dawn of X Vol. 2
+- [ ] [Dawn of X Vol. 1](#dawn-of-x-vol-1-tpb)
+- [ ] [Dawn of X Vol. 2](#dawn-of-x-vol-2-tpb)
 - [ ] Dawn of X Vol. 3
 - [ ] Dawn of X Vol. 4
 - [ ] Dawn of X Vol. 5
@@ -77,7 +77,7 @@ categories = ["Checklist"]
 #### House of X/Powers of X TPB
 
 <p>
-<img src="/newagecaveman/images/houseofx-powersofx_tpb_cover.webp" width="400px" alt="House of X/Powers of X TPB Cover" title="House of X/Powers of X TPB Cover">
+<img src="/newagecaveman/images/houseofx_powersofx_tpb_cover.webp" width="400px" alt="House of X/Powers of X TPB Cover" title="House of X/Powers of X TPB Cover">
 </p>
 
 **Issues Collected**
