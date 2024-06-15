@@ -79,7 +79,7 @@ categories = ["Checklist"]
 
 # House of X/Powers of X
 
-#### House of X/Powers of X
+## House of X/Powers of X
 
 <p>
 <img src="/newagecaveman/images/houseofx_powersofx_tpb_cover.webp" width="400px" alt="House of X/Powers of X TPB Cover" title="House of X/Powers of X TPB Cover">
@@ -94,7 +94,7 @@ categories = ["Checklist"]
 
 # Dawn of X
 
-#### Dawn of X Vol. 1
+## Dawn of X Vol. 1
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol01_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 1 TPB Cover" title="Dawn of X Vol. 1 TPB Cover">
@@ -111,7 +111,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 2
+## Dawn of X Vol. 2
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol02_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 2 TPB Cover" title="Dawn of X Vol. 2 TPB Cover">
@@ -128,7 +128,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 3
+## Dawn of X Vol. 3
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol03_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 3 TPB Cover" title="Dawn of X Vol. 3 TPB Cover">
@@ -145,7 +145,7 @@ categories = ["Checklist"]
 
 ---
 
-#### Dawn of X Vol. 4
+## Dawn of X Vol. 4
 
 <p>
 <img src="/newagecaveman/images/dawnofx_vol04_tpb_cover.webp" width="400px" alt="Dawn of X Vol. 4 TPB Cover" title="Dawn of X Vol. 4 TPB Cover">
