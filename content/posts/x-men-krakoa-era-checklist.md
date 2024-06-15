@@ -174,7 +174,9 @@ Issues appearing in this series based on the [Dawn of X Marvel Series Spotlight]
 
 
 
-
+<p>
+<img src="/newagecaveman/images/dawnofx_vol01_tpb_cover.webp" width="400px">
+</p>
 
 
 
