@@ -12,6 +12,7 @@ categories = ["Checklist"]
 - [X of Swords](#x-of-swords)
 - [Reign of X](#reign-of-x)
 - [Trials of X](#trials-of-x)
+- Fall of X/Fall of House of X
 
 # TPB Checklist
 
@@ -42,7 +43,7 @@ categories = ["Checklist"]
 
 - [ ] X of Swords
 
-## Reign of X
+**Reign of X**
 
 - [ ] Reign of X Vol. 1
 - [ ] Reign of X Vol. 2
@@ -59,7 +60,7 @@ categories = ["Checklist"]
 - [ ] Reign of X Vol. 13
 - [ ] Reign of X Vol. 14
 
-## Trial of X
+**Trial of X**
 
 - [ ] Trial of X Vol. 1
 - [ ] Trial of X Vol. 2
