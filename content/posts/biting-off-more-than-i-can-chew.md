@@ -1,6 +1,8 @@
 +++
 title = 'Biting off More than I Can Chew'
 date = 2024-06-13T17:01:44+08:00
+tags = ["Hugo", "Blogs"]
+categories = ["Soapbox"]
 +++
 
 # Creating a new blog
